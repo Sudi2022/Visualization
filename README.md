@@ -1,4 +1,4 @@
-# Data Visualization, Descriptive Analysis, Business Process Improvements 
+# Data Visualization, Descriptive Analysis, Business Process Improvement
 
 This project aimed to analyze business data from a breakfast cereal manufacturing company using an SAP ERP system. The analysis focused on understanding the business, preparing data, and comparing the performance of various subsidiary companies to identify successful and unsuccessful business practices.
 
